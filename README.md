@@ -14,9 +14,7 @@ This project focuses on ArUco marker detection using OpenCV, a computer vision l
 ## Code Files
 
 Aruco Marker Detection:https://github.com/YashviPopat/Aruco-Marker-Detection/blob/9ab46e0c2bc18889231f3ee65f12db781b6a5b90/Aruco_Marker_Detection.ipynb
-## Code Files
 
-Aruco Marker Detection:https://github.com/YashviPopat/Aruco-Marker-Detection/blob/9ab46e0c2bc18889231f3ee65f12db781b6a5b90/Aruco_Marker_Detection.ipynb
 ## Requirements
 OpenCV:
 
